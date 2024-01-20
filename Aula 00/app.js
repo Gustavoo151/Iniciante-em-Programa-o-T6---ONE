@@ -1,4 +1,3 @@
-/*
 alert('Boas Vindas ao jogo do Mundo secreto');
 let numeroSecreto = 29;
 let chute = 0;
@@ -22,5 +21,3 @@ while(true){
         break;
     }
 }
-*/
-
