@@ -1,4 +1,4 @@
-//let numeroSecreto = gerarNumeroAleatorio();
+let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 exibirMensagemInicial();
