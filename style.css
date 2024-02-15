@@ -1,29 +1,8 @@
 body {
-    background-color: #000000;
-    color: white;
-}
-
-h1 {
-    font-weight: bold;
-}
-
-span {
-    color: #22D4FD;
-    /* border: 1px solid #22D4FD; */
-    padding: 10px;
-}
-
-a  {
+    background-color: black;
     color: #f6f6f6;
 }
 
-strong {
-    color: #22D4FD;
-}
-
-.container img {
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
+.titulo-destaque {
+    color: #22d4fd;
 }
