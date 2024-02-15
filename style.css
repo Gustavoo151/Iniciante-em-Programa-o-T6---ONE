@@ -4,6 +4,8 @@
 }
 
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: black;
     color: #f6f6f6;
 }
