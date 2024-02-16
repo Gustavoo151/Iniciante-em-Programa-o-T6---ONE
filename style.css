@@ -17,7 +17,7 @@ body {
 }
 
 .apresentacao {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -26,6 +26,9 @@ body {
 .apresentacao__conteudo {
     width: 615px;
     font-family: "Krona One", sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -53,4 +56,8 @@ body {
     text-decoration: none;
     color: #000;
     font-family: "Montserrat", sans-serif;
+}
+
+.MinhaFoto {
+    border-radius: 16px;
 }
