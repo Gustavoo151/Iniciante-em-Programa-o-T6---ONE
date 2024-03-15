@@ -42,43 +42,22 @@ body {
 
 .apresentacao__links {
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
-    align-items: center;
-    gap: 32px;  
 }
-
-.apresentacao__links__subtitulo{
-    font-family: 'Krona One', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-}
-
 
 .apresentacao__links__link {
-    /* background-color: #22d4fd; */
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    width: 378px;
-    height: 40px;
+    background-color: #22d4fd;
+    width: 280px;
     text-align: center;
-    border-radius: 8px;
+    border-radius: 16px;
     font-size: 24px;
     font-weight: 600;
     padding: 21,5px 0px;
     text-decoration: none;
-    color: #f6f6f6;
+    color: #000;
     font-family: "Montserrat", sans-serif;
-    border: 2px solid #22d4fd;
-
-}
-
-.apresentacao__links__link:hover {
-    background-color: #272727;
 }
 
 .MinhaFoto {
     border-radius: 16px;
 }
-
