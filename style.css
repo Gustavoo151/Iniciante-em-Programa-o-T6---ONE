@@ -12,13 +12,25 @@ body {
     color: #f6f6f6;
 }
 
-.titulo-destaque {
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
     color: #22d4fd;
 }
 
 .apresentacao {
     /* margin: 10% 15%; */
-    padding: 8% 15%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -35,6 +47,11 @@ body {
 .apresentacao__conteudo__titulo { 
     font-size: 36px;
 }
+
+.titulo-destaque {
+    color: #22d4fd;
+}
+
 
 .apresentacao__conteudo__paragrafo {
     font-size: 24px;
@@ -91,3 +108,4 @@ body {
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
 }
+
