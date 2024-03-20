@@ -7,4 +7,4 @@ Curso 3 - HTML e CSS - ambientes de desenvolvimento, estrutura de arquivos e tag
 Curso 4 - HTML e CSS - Classes, posicionamento e Flexbox
 Curso 5 - HTML e CSS: cabeçalho, footer e variáveis CSS
 Curso 6 - HTML e CSS: trabalhando com responsividade e publicação de projetos
-Curso 07 - Git e GitHub: compartilhando e colaborando em projetos
+Curso 7 - Git e GitHub: compartilhando e colaborando em projeto
